@@ -1,0 +1,12 @@
+{
+  "name": "calculadora-completa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Grupo Examen02",
+  "license": "ISC",
+  "description": "Calculadora que usa las 4 operaciones básicas mediante librerías NPM locales"
+}

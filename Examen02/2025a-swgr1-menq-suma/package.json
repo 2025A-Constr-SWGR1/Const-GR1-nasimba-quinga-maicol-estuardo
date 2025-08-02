@@ -1,0 +1,11 @@
+{
+  "name": "2025a-swgr1-fasg-suma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maicol Estuardo Nasimba Quinga",
+  "license": "ISC",
+  "description": "Librería para realizar operaciones de suma"
+}
